@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>DoshBoss</title>
-    <link href="https://fiulo.github.io/doshboss/feed.xml" rel="self" />
-    <link href="https://fiulo.github.io/doshboss" />
+    <link href="https://doshboss.com/feed.xml" rel="self" />
+    <link href="https://doshboss.com" />
     <updated>2023-10-12T13:51:35+01:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
-    <id>https://fiulo.github.io/doshboss</id>
+    <id>https://doshboss.com</id>
 
     <entry>
         <title>Sample Page</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/sample-page.html"/>
-        <id>https://fiulo.github.io/doshboss/sample-page.html</id>
+        <link href="https://doshboss.com/sample-page.html"/>
+        <id>https://doshboss.com/sample-page.html</id>
 
         <updated>2023-09-29T11:07:24+01:00</updated>
             <summary>
@@ -58,8 +58,8 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/hello-world.html"/>
-        <id>https://fiulo.github.io/doshboss/hello-world.html</id>
+        <link href="https://doshboss.com/hello-world.html"/>
+        <id>https://doshboss.com/hello-world.html</id>
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
@@ -79,20 +79,20 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/starting-your-freelance-journey-online-a-beginners-guide-to-success.html"/>
-        <id>https://fiulo.github.io/doshboss/starting-your-freelance-journey-online-a-beginners-guide-to-success.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" medium="image" />
+        <link href="https://doshboss.com/starting-your-freelance-journey-online-a-beginners-guide-to-success.html"/>
+        <id>https://doshboss.com/starting-your-freelance-journey-online-a-beginners-guide-to-success.html</id>
+        <media:content url="https://doshboss.com/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" medium="image" />
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" alt="" />
                     Freelancing refers to the practice of offering your skills and services as an independent contractor, rather than working as a traditional employee for a company. Freelancers typically work on a project basis and have the flexibility to choose their projects and clients. Freelancing offers several benefits, including the ability to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://doshboss.com/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" class="type:primaryImage" alt="" /></p>
                 <p>  Freelancing refers to the practice of offering your skills and services as an independent contractor, rather than working as a traditional employee for a company. Freelancers typically work on a project basis and have the flexibility to choose their projects and clients. </p>
 </p>
 <p> Freelancing offers several benefits, including the ability to work from anywhere, flexible schedules, and the freedom to choose the projects and clients you want to work with. Additionally, freelancing can provide opportunities for growth and development, as well as higher earnings potential.</p>
@@ -102,7 +102,7 @@
 <p><em><strong>Disclaimer:</strong> Please note that the information provided in this blog post is for general informational purposes only. It is not intended to be financial advice and should not be relied upon as such. Always consult with a financial advisor before making any financial decisions. Additionally, this blog post contains affiliate links. If you click on these links and make a purchase, we may earn a commission at no additional cost to you. We only recommend products or services that we believe will add value to our readers</em></p>
 
 </p>
-<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="400" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/doshboss/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-xl.png 1200w"></a></div>
+<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="400" data-original-height="1024" data-original-width="1024" src="https://doshboss.com/media/posts/56/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-xs.png 300w ,https://doshboss.com/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-sm.png 480w ,https://doshboss.com/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-md.png 768w ,https://doshboss.com/media/posts/56/responsive/Fiulo_A_visual_representation_of_a_freelancer_working_hard_and__5811cec9-3a65-48e8-8f71-496eb3545cf3-300x300-xl.png 1200w"></a></div>
 </p>
 <h2> Defining Your Skills and Services </h2>
 </p>
@@ -162,24 +162,24 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/what-are-nfts-and-why-do-people-spend-money-on-them.html"/>
-        <id>https://fiulo.github.io/doshboss/what-are-nfts-and-why-do-people-spend-money-on-them.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" medium="image" />
+        <link href="https://doshboss.com/what-are-nfts-and-why-do-people-spend-money-on-them.html"/>
+        <id>https://doshboss.com/what-are-nfts-and-why-do-people-spend-money-on-them.html</id>
+        <media:content url="https://doshboss.com/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" medium="image" />
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" alt="" />
                     What Are NFTs and Why Do People Spend Money on Them NFTs are unique digital assets that represent ownership of a specific item or piece of content, such as a digital artwork or collectible. Unlike cryptocurrencies, such as Bitcoin, which are fungible and interchangeable, NFTs are unique and cannot be&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://doshboss.com/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" class="type:primaryImage" alt="" /></p>
                 </p>
 <p>
 <title>What Are NFTs and Why Do People Spend Money on Them</title></p>
-<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/doshboss/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-xl.png 1200w"></a></div>
+<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://doshboss.com/media/posts/57/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-xs.png 300w ,https://doshboss.com/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-sm.png 480w ,https://doshboss.com/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-md.png 768w ,https://doshboss.com/media/posts/57/responsive/Fiulo_A_visual_representation_of_NTFs_cyberpunk_4655e1e0-40e7-4298-88fd-f4c0f2d7fb08-300x300-xl.png 1200w"></a></div>
 <p>NFTs are unique digital assets that represent ownership of a specific item or piece of content, such as a digital artwork or collectible. Unlike cryptocurrencies, such as Bitcoin, which are fungible and interchangeable, NFTs are unique and cannot be duplicated or replaced. NFTs use blockchain technology to verify ownership and authenticity, making them resistant to counterfeiting and fraud.</p>
 <p>NFTs were first introduced in the gaming industry in the early 2010s as a way to represent virtual items, such as skins and in-game items, that were unique to each player. In recent years, the use of NFTs has expanded to include digital art and collectibles, with high-profile sales of NFT artwork reaching millions of dollars. The popularity of NFTs has grown rapidly in the past year, with new platforms emerging and a growing number of artists, musicians, and other creatives using NFTs to monetize their work. </p>
 <p>NFTs provide a new way for artists and creatives to monetize their work and establish ownership of their digital creations. NFTs also offer collectors and investors a new form of investment, with the value of certain NFTs increasing over time. Additionally, NFTs are often used as a way to represent ownership of virtual real estate, such as virtual plots of land or in-game items, in decentralized virtual worlds.</p>
@@ -262,24 +262,24 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/unlocking-the-secrets-a-step-by-step-guide-on-how-to-get-started-with-dropshipping-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/unlocking-the-secrets-a-step-by-step-guide-on-how-to-get-started-with-dropshipping-in-the-uk.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" medium="image" />
+        <link href="https://doshboss.com/unlocking-the-secrets-a-step-by-step-guide-on-how-to-get-started-with-dropshipping-in-the-uk.html"/>
+        <id>https://doshboss.com/unlocking-the-secrets-a-step-by-step-guide-on-how-to-get-started-with-dropshipping-in-the-uk.html</id>
+        <media:content url="https://doshboss.com/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" medium="image" />
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" alt="" />
                     Unlocking the Secrets. A Step-by-Step Guide on How to Get Started with Dropshipping in the UK Dropshipping is a retail fulfillment method where a store doesn&#039;t keep the products it sells in stock. Instead, when a store sells a product, it purchases the item from a third-party supplier who ships&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://doshboss.com/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" class="type:primaryImage" alt="" /></p>
                 </p>
 <p>
 <title>Unlocking the Secrets. A Step-by-Step Guide on How to Get Started with Dropshipping in the UK</title></p>
-<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="798" data-original-width="798" src="https://fiulo.github.io/doshboss/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-xl.png 1200w"></a></div>
+<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="798" data-original-width="798" src="https://doshboss.com/media/posts/58/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-xs.png 300w ,https://doshboss.com/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-sm.png 480w ,https://doshboss.com/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-md.png 768w ,https://doshboss.com/media/posts/58/responsive/Fiulo_A_visual_representation_of_dropshipping_cyberpunk_34a7ae5d-b3ce-4d73-b6e2-89030586a3d2-300x300-xl.png 1200w"></a></div>
 <p>Dropshipping is a retail fulfillment method where a store doesn&#039;t keep the products it sells in stock. Instead, when a store sells a product, it purchases the item from a third-party supplier who ships it directly to the customer. This eliminates the need for the store to handle and store inventory.</p>
 <p>Dropshipping has become increasingly popular in the UK in recent years, as it offers the opportunity for entrepreneurs to start an online store with minimal capital and low overhead costs. The UK has a thriving e-commerce market, making it an ideal location for starting a dropshipping business.</p>
 <p>The purpose of this blog post is to provide a comprehensive guide for individuals interested in starting a dropshipping business in the UK. The post will cover key topics such as researching your niche, choosing a supplier, setting up your online store, marketing and sales strategies, shipping and order fulfillment, and scaling your business. By the end of the post, the reader should have a clear understanding of how to start and grow a successful dropshipping business in the UK.</p>
@@ -329,24 +329,24 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/maximize-your-mobile-savings-top-10-proven-ways-to-cut-data-costs-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/maximize-your-mobile-savings-top-10-proven-ways-to-cut-data-costs-in-the-uk.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" medium="image" />
+        <link href="https://doshboss.com/maximize-your-mobile-savings-top-10-proven-ways-to-cut-data-costs-in-the-uk.html"/>
+        <id>https://doshboss.com/maximize-your-mobile-savings-top-10-proven-ways-to-cut-data-costs-in-the-uk.html</id>
+        <media:content url="https://doshboss.com/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" medium="image" />
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" alt="" />
                     Maximize Your Mobile Savings. Top 10 Proven Ways to Cut Data Costs in the UK In today&#039;s world, having a mobile phone and an active internet connection is crucial for both personal and professional life. However, with the increasing use of data-intensive activities such as streaming videos, downloading apps, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://doshboss.com/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" class="type:primaryImage" alt="" /></p>
                 </p>
 <p>
 <title>Maximize Your Mobile Savings. Top 10 Proven Ways to Cut Data Costs in the UK</title></p>
-<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/doshboss/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-xl.png 1200w"></a></div>
+<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://doshboss.com/media/posts/59/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-xs.png 300w ,https://doshboss.com/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-sm.png 480w ,https://doshboss.com/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-md.png 768w ,https://doshboss.com/media/posts/59/responsive/Fiulo_A_cellphone_in_a_cyberpunk_city_charging_22d09a7a-b3ab-4f7a-853b-90eabac79d3d-300x300-xl.png 1200w"></a></div>
 <p>In today&#039;s world, having a mobile phone and an active internet connection is crucial for both personal and professional life. However, with the increasing use of data-intensive activities such as streaming videos, downloading apps, and browsing the internet, mobile data costs can quickly add up. In the UK, mobile data costs can be expensive, especially if you exceed your monthly data limit. It&#039;s important to manage your mobile data costs effectively to save money and avoid overage charges.</p>
 <p>There are several ways to save on data costs in the UK. Some of the most effective methods include understanding your data usage, taking advantage of Wi-Fi, managing background data, using data-saving apps and features, and considering switching to a different carrier. In this blog post, we will delve into each of these methods in detail and provide you with practical tips on how to maximize your mobile savings.</p>
 <p><em><strong>Disclaimer:</strong> Please note that the information provided in this blog post is for general informational purposes only. It is not intended to be financial advice and should not be relied upon as such. Always consult with a financial advisor before making any financial decisions. Additionally, this blog post contains affiliate links. If you click on these links and make a purchase, we may earn a commission at no additional cost to you. We only recommend products or services that we believe will add value to our readers</em></p>
@@ -398,21 +398,21 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/uncover-the-secret-pockets-of-cash-top-5-ways-to-reclaim-money-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/uncover-the-secret-pockets-of-cash-top-5-ways-to-reclaim-money-in-the-uk.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" medium="image" />
+        <link href="https://doshboss.com/uncover-the-secret-pockets-of-cash-top-5-ways-to-reclaim-money-in-the-uk.html"/>
+        <id>https://doshboss.com/uncover-the-secret-pockets-of-cash-top-5-ways-to-reclaim-money-in-the-uk.html</id>
+        <media:content url="https://doshboss.com/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" medium="image" />
 
         <updated>2023-10-12T13:51:35+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" alt="" />
                     Reclaiming money refers to the process of retrieving money that is owed to an individual or entity, but has not been claimed or paid out. This could be in the form of unclaimed benefits, overpaid taxes, unclaimed bank accounts, insurance policies, or PPI reclaims. In today's economy, every penny counts&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" class="type:primaryImage" alt="" /></p>
-                <div style="clear: both;"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://fiulo.github.io/doshboss/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300.png" alt="" width="320" border="0" data-original-height="1024" data-original-width="1024" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xl.png 1200w"></a></div>
+                    <p><img src="https://doshboss.com/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" class="type:primaryImage" alt="" /></p>
+                <div style="clear: both;"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" style="padding: 1em 0; text-align: center;"><img loading="lazy" src="https://doshboss.com/media/posts/60/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300.png" alt="" width="320" border="0" data-original-height="1024" data-original-width="1024" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xs.png 300w ,https://doshboss.com/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-sm.png 480w ,https://doshboss.com/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-md.png 768w ,https://doshboss.com/media/posts/60/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xl.png 1200w"></a></div>
 <p>Reclaiming money refers to the process of retrieving money that is owed to an individual or entity, but has not been claimed or paid out. This could be in the form of unclaimed benefits, overpaid taxes, unclaimed bank accounts, insurance policies, or PPI reclaims.</p>
 <p>In today's economy, every penny counts and reclaiming money can go a long way in helping individuals and families achieve their financial goals. Whether it's paying off debts, saving for a future purchase, or just having extra money to spend, reclaiming money can provide a significant boost to one's financial wellbeing.</p>
 <p>In this blog post, we will be discussing the top ways to reclaim money in the UK. These include unclaimed benefits, refunds on overpaid taxes, unclaimed bank accounts, unclaimed insurance policies, and PPI reclaims. We will be going into detail on each of these methods, explaining how to check for and reclaim any money owed to you.</p>
@@ -461,24 +461,24 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/a-step-by-step-guide-to-building-your-credit-score-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/a-step-by-step-guide-to-building-your-credit-score-in-the-uk.html</id>
-        <media:content url="https://fiulo.github.io/doshboss/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" medium="image" />
+        <link href="https://doshboss.com/a-step-by-step-guide-to-building-your-credit-score-in-the-uk.html"/>
+        <id>https://doshboss.com/a-step-by-step-guide-to-building-your-credit-score-in-the-uk.html</id>
+        <media:content url="https://doshboss.com/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" medium="image" />
 
         <updated>2023-09-29T11:07:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/doshboss/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" alt="" />
+                        <img src="https://doshboss.com/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" alt="" />
                     A Step-by-Step Guide to Building Your Credit Score in the UK Having a good credit score in the UK is crucial for your financial future. A good credit score can help you secure loans, credit cards, and mortgages with favorable terms and lower interest rates. Additionally, it can also positively&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/doshboss/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://doshboss.com/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" class="type:primaryImage" alt="" /></p>
                 </p>
 <p>
 <title>A Step-by-Step Guide to Building Your Credit Score in the UK</title></p>
-<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/doshboss/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://fiulo.github.io/doshboss/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xs.png 300w ,https://fiulo.github.io/doshboss/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-sm.png 480w ,https://fiulo.github.io/doshboss/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-md.png 768w ,https://fiulo.github.io/doshboss/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xl.png 1200w"></a></div>
+<div style="clear: both"><a href="http://doshboss.fiulo.com/wp-content/uploads/sites/4/2023/02/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936.png" style="padding: 1em 0;text-align: center"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://doshboss.com/media/posts/61/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300.png"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://doshboss.com/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xs.png 300w ,https://doshboss.com/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-sm.png 480w ,https://doshboss.com/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-md.png 768w ,https://doshboss.com/media/posts/61/responsive/Fiulo_A_man_holding_a_bunch_of_credit_cards_grinning_3fecb589-0efd-481c-82c3-04aedf0a7936-300x300-xl.png 1200w"></a></div>
 <p>Having a good credit score in the UK is crucial for your financial future. A good credit score can help you secure loans, credit cards, and mortgages with favorable terms and lower interest rates. Additionally, it can also positively impact your ability to rent a home or secure a job, as many employers and landlords may check your credit score.</p>
 <p>Building a good credit score takes time, effort, and consistency. However, the process is straightforward and involves checking your credit report, managing debt, making payments on time, limiting credit applications, and using credit cards responsibly.</p>
 <p>A credit score is a numerical representation of your creditworthiness based on your credit history. It is calculated by credit reporting agencies, such as Experian and Equifax, using algorithms that take into account various factors such as payment history, outstanding debt, and credit utilization. A good credit score typically ranges from 721 to 880, while a poor credit score is usually below 600. The higher your credit score, the better your creditworthiness, and the easier it is to secure credit with favorable terms.</p>
@@ -569,8 +569,8 @@ Your credit score plays a significant role in your financial future, as it affec
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/11-proven-ways-to-reduce-monthly-expenses-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/11-proven-ways-to-reduce-monthly-expenses-in-the-uk.html</id>
+        <link href="https://doshboss.com/11-proven-ways-to-reduce-monthly-expenses-in-the-uk.html"/>
+        <id>https://doshboss.com/11-proven-ways-to-reduce-monthly-expenses-in-the-uk.html</id>
 
         <updated>2023-09-29T11:07:25+01:00</updated>
             <summary>
@@ -751,8 +751,8 @@ Your credit score plays a significant role in your financial future, as it affec
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/doshboss/5-proven-ways-to-save-money-on-utilities-during-winter-in-the-uk.html"/>
-        <id>https://fiulo.github.io/doshboss/5-proven-ways-to-save-money-on-utilities-during-winter-in-the-uk.html</id>
+        <link href="https://doshboss.com/5-proven-ways-to-save-money-on-utilities-during-winter-in-the-uk.html"/>
+        <id>https://doshboss.com/5-proven-ways-to-save-money-on-utilities-during-winter-in-the-uk.html</id>
 
         <updated>2023-09-29T11:07:25+01:00</updated>
             <summary>

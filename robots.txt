@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fiulo.github.io/doshboss/sitemap.xml
+Sitemap: https://doshboss.com/sitemap.xml
